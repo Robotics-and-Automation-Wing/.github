@@ -8,6 +8,9 @@ Students from different fields learning, exploring and developing new skills.
 
 - [Purva Shete](https://github.com/Purva-2301) - CRC
 - [Jerin John](https://github.com/JerinJohn99) - Co-CRC
+- [Priya Jain](https://github.com/Priya16042003) - Treasurer
+- Prachi Mandadkar - Treasurer
+- Deekshita Donthula - Co-Treasurer
 - Omkar More
 - [Divyanshu Modi](https://github.com/Divyanshu-Modi)
 - [Yash Pathak](https://github.com/vindicta07)
@@ -15,6 +18,6 @@ Students from different fields learning, exploring and developing new skills.
 - Hrushikesh Auti
 - Vaishnavi Gaikwad
 - Shreehari Punna
-
-NOTE: This list does not represent all the present members
-
+- Yash Dube
+- Kartik Devadiga
+- Rahul Chavanke
