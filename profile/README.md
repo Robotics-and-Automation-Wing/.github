@@ -21,3 +21,4 @@ Students from different fields learning, exploring and developing new skills.
 - Yash Dube
 - Kartik Devadiga
 - Rahul Chavanke
+- [Pranjali Naik](https://github.com/Resident-On-Planet-Earth)
